@@ -11,7 +11,7 @@ blockquote {
   
   blockquote p {
       padding: 15px;
-      background: antiquewhite;
+      background: rgb(59, 59, 59);
       border-radius: 5px;
   }
   
