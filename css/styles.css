@@ -1,7 +1,7 @@
 @font-face {
-  font-family: 'NanumSqaureNeoTTF';
-  src:url('assets/font/NanumSqaureNeoTTF.woff2') format('woff2'),
-      url('assets/font/NanumSqaureNeoTTF.woff') format('woff');
+  font-family: 'NanumSquareNeoTTF';
+  src:url('assets/font/NanumSquareNeoTTF.woff2') format('woff2'),
+      url('assets/font/NanumSquareNeoTTF.woff') format('woff');
 }
     
 body {
