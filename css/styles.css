@@ -1,10 +1,9 @@
 @font-face {
   font-family: 'NanumSquareNeoTTF';
-  src:url('assets/font/NanumSquareNeoTTF.woff2') format('woff2'),
-      url('assets/font/NanumSquareNeoTTF.woff') format('woff');
+  src: url('assets/font/NanumSquareNeoTTF.woff2') format('woff2'),
+       url('assets/font/NanumSquareNeoTTF.woff') format('woff');
 }
-    
+
 body {
   font-family: 'NanumSquareNeoTTF', Arial, sans-serif;
 }
-    
