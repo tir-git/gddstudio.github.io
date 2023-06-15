@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'NanumSquareNeo';
-  src: url('assets/font/NanumSquareNeo.otf') format('opentype'),
-       url('assets/font/NanumSquareNeo.ttf') format('truetype');
+  src:url('assets/font/NanumSquareNeo.otf') format('opentype'),
+      url('assets/font/NanumSquareNeo.ttf') format('truetype');
 }
 
 body {
